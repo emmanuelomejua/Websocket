@@ -1,0 +1,45 @@
+.card{
+    height: 280px;
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    font-weight: bold;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.uImg{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.pImg{
+    width: 100%;
+    height: 200px;
+}
+
+.interaction{
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    gap: 10px;
+    position: relative;
+}
+
+.cart{
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+
+.r{
+    position: absolute;
+    right: 5px;
+    height: 14px;
+    width: 14px;
+}
